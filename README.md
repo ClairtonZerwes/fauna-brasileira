@@ -32,7 +32,7 @@ Este projeto web tem como objetivo fornecer informações sobre a fauna brasilei
 ![image](https://fauna-brasileira.vercel.app/)
 
 ### Exemplo de Uso
-![image](![image](https://github.com/user-attachments/assets/4cccb6f7-0a77-434b-9e9b-e7dff7756133))
+![image](https://github.com/user-attachments/assets/081ffa7d-2a53-4c0a-9295-dda55c948d5f)
 
 ### Como Executar o Projeto
 1. **Clone o repositório:**
