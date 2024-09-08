@@ -29,7 +29,7 @@ Este projeto web tem como objetivo fornecer informações sobre a fauna brasilei
 <h2></h2>
 
 ### Como Acessar - Vercel
-![image](https://fauna-brasileira.vercel.app/)
+https://fauna-brasileira.vercel.app/
 
 ### Exemplo de Uso
 ![image](https://github.com/user-attachments/assets/081ffa7d-2a53-4c0a-9295-dda55c948d5f)
