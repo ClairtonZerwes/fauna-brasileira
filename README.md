@@ -28,16 +28,26 @@ Este projeto web tem como objetivo fornecer informações sobre a fauna brasilei
 </div> 
 <h2></h2>
 
-## Como Usar
-1. **Clonar o repositório:**
-   ```bash
-   git clone [URL inválido removido]
-
 ### Como Acessar - Vercel
 ![image](https://fauna-brasileira.vercel.app/)
 
 ### Exemplo de Uso
-![image](https://github.com/user-attachments/assets/a0f45913-9a0e-4bce-92e7-6e7cba607b2b)
+![image](![image](https://github.com/user-attachments/assets/4cccb6f7-0a77-434b-9e9b-e7dff7756133))
+
+### Como Executar o Projeto
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/ClairtonZerwes/fauna-brasileira
+   ```
+2. **Abra o projeto em um editor de código:** Recomenda-se utilizar um editor como Visual Studio Code.
+3. **Abra o arquivo `index.html` em um navegador web.**
+
+### Como Contribuir
+Contribuições são bem-vindas! Para contribuir com este projeto, siga estes passos:
+1. **Fork** este repositório.
+2. **Crie um novo branch** para sua feature.
+3. **Faça as suas alterações** e commit.
+4. **Envie um pull request**.
 
 
 ### Licença
